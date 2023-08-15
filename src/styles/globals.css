@@ -1,0 +1,10 @@
+body{
+    height: 98vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("../../public/background.jpg");
+    object-fit: cover;
+    background-size: cover;
+    
+}
